@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+}
+label{
+    font-size: 20px;
+    color: brown;
+    margin-right: 10px;
+}
+.password_div{
+    display: flex;
+    /* justify-content: center; */
+    /* margin-top: 10%; */
+    
+} 
